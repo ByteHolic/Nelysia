@@ -13,7 +13,7 @@ export class ChatWsController {
   })
   @Ws("/chat/:room")
   chat(): WsHandlers {
-    const chatSvc = this.chat;
+    const chatSvc = this.chatSvc;
 
     return {
       open(ws) {
