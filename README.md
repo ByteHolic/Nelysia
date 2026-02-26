@@ -2,9 +2,9 @@
 
 > NestJS-style modular framework built natively on [ElysiaJS](https://elysiajs.com) + Bun.
 
-[![npm version](https://img.shields.io/npm/v/nelysia)](https://www.npmjs.com/package/@byteholic/nelysia)
+[![npm version](https://img.shields.io/npm/v/@byteholic/nelysia)](https://www.npmjs.com/package/@byteholic/nelysia)
 [![bun](https://img.shields.io/badge/runtime-bun-black)](https://bun.sh)
-[![license](https://img.shields.io/npm/l/nelysia)](./LICENSE)
+[![license](https://img.shields.io/npm/l/@byteholic/nelysia)](./LICENSE)
 
 ---
 
